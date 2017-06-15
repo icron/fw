@@ -16,7 +16,9 @@ index.php?r=default/index
 
 // Добавление вопроса
 admin.php?r=question/create
+
 // оРедактирование вопроса
 admin.php?r=question/update
+
 // Удаление вопроса
 admin.php?r=question/delete
