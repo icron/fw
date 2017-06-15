@@ -20,4 +20,3 @@ admin.php?r=question/create
 admin.php?r=question/update
 // Удаление вопроса
 admin.php?r=question/delete
-//  вопроса
